@@ -11,3 +11,4 @@ vendor/*
 .idea
 .DS_Store
 locale/messages.po
+flightaware_api.key
